@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bj-xendit/cypress-api-testing/issues"
   },
-  "homepage": "https://github.com/bj-xendit/cypress-api-testing#readme"
+  "homepage": "https://github.com/bj-xendit/cypress-api-testing#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
 }
