@@ -1,2 +1,2 @@
 # cypress-api-testing
-Automated API testing with Cypress
+Automated API testing with Cypress.
