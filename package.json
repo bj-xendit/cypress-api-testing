@@ -1,0 +1,23 @@
+{
+  "name": "cypress-api-testing",
+  "version": "1.0.0",
+  "description": "Automated API testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bj-xendit/cypress-api-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bj-xendit/cypress-api-testing/issues"
+  },
+  "homepage": "https://github.com/bj-xendit/cypress-api-testing#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
